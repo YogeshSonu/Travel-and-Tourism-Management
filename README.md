@@ -8,7 +8,7 @@
 <h1>You can see Project files in Master Branch of Repository</h1>
 
 # OUTPUT
-![Screenshot (33)](https://github.com/YogeshSonu/Student-Registration-System-Using-Java-and-MYSQL/assets/114085247/e31a2718-535d-40b4-96b9-91235964a251)
+![Screenshot (33)](https://github.com/YogeshSonu/Travel-and-Tourism-Management/blob/main/Screenshot%20(40).png?raw=true)
 ![Screenshot (32)](https://github.com/YogeshSonu/Student-Registration-System-Using-Java-and-MYSQL/assets/114085247/26a432ba-e86f-44cd-82a5-56bf47b2b5cd)
 ![Screenshot (31)](https://github.com/YogeshSonu/Student-Registration-System-Using-Java-and-MYSQL/assets/114085247/c12b74ce-651f-4501-a03a-8beec6a2ea95)
 ![Screenshot (30)](https://github.com/YogeshSonu/Student-Registration-System-Using-Java-and-MYSQL/assets/114085247/e11bf467-de1a-40e2-8263-fdfcce9ef36e)
